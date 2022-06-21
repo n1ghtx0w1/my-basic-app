@@ -10,9 +10,7 @@ export default function HomePage() {
 
 Et pharetra pharetra massa massa ultricies mi quis. Sodales neque sodales ut etiam. In tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Facilisis mauris sit amet massa vitae tortor condimentum. Velit laoreet id donec ultrices. Dui ut ornare lectus sit amet. Amet justo donec enim diam vulputate ut pharetra sit. Netus et malesuada fames ac turpis egestas maecenas pharetra. Risus at ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Faucibus interdum posuere lorem ipsum. Libero justo laoreet sit amet cursus sit amet. Ornare quam viverra orci sagittis eu volutpat odio facilisis.
 
-Dictum varius duis at consectetur lorem donec massa sapien. Nec ullamcorper sit amet risus nullam eget felis eget. Enim neque volutpat ac tincidunt. Tellus pellentesque eu tincidunt tortor aliquam nulla. Vitae turpis massa sed elementum tempus egestas. Tristique et egestas quis ipsum suspendisse ultrices gravida dictum fusce. Amet consectetur adipiscing elit pellentesque habitant morbi tristique. Sed adipiscing diam donec adipiscing. Sed viverra tellus in hac habitasse platea dictumst vestibulum. Mattis nunc sed blandit libero volutpat sed. Nullam non nisi est sit amet facilisis magna etiam tempor. Commodo elit at imperdiet dui accumsan sit amet. Quisque non tellus orci ac auctor augue mauris augue. In fermentum posuere urna nec. Ut aliquam purus sit amet luctus venenatis lectus magna. Tristique risus nec feugiat in. Rhoncus mattis rhoncus urna neque viverra justo nec ultrices dui. Eget lorem dolor sed viverra.
-
-Nullam vehicula ipsum a arcu cursus vitae.
+Dictum varius duis at consectetur lorem donec massa sapien. 
       </p>
       </div>
 
