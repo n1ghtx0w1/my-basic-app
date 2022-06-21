@@ -1,0 +1,23 @@
+import Layout from "@/components/Layout";
+import Link from "next/link";
+
+export default function link_2() {
+  return (
+    <Layout title='Link 2'>
+        <h1>Link 2</h1>
+        <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut pharetra sit amet aliquam id. Neque vitae tempus quam pellentesque nec nam aliquam sem. Interdum velit euismod in pellentesque massa placerat duis ultricies. Convallis convallis tellus id interdum velit laoreet id. In aliquam sem fringilla ut morbi tincidunt augue interdum velit. Integer vitae justo eget magna fermentum. Lacus viverra vitae congue eu. At tellus at urna condimentum mattis pellentesque. Adipiscing elit ut aliquam purus. Risus in hendrerit gravida rutrum quisque non tellus. A iaculis at erat pellentesque adipiscing commodo. Vitae suscipit tellus mauris a. Nisi vitae suscipit tellus mauris a. Orci ac auctor augue mauris augue neque gravida. Accumsan lacus vel facilisis volutpat est velit egestas dui. Consectetur adipiscing elit pellentesque habitant morbi tristique senectus et. Bibendum est ultricies integer quis auctor elit sed vulputate.
+
+Condimentum mattis pellentesque id nibh tortor. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Feugiat pretium nibh ipsum consequat nisl vel pretium. Adipiscing elit ut aliquam purus. Sit amet mauris commodo quis imperdiet massa tincidunt nunc. Egestas maecenas pharetra convallis posuere morbi. Elementum nisi quis eleifend quam adipiscing vitae. Condimentum id venenatis a condimentum vitae sapien pellentesque habitant morbi. Cras tincidunt lobortis feugiat vivamus at augue. Tempor orci eu lobortis elementum nibh tellus. At in tellus integer feugiat scelerisque varius morbi enim nunc. In fermentum posuere urna nec. Non blandit massa enim nec dui nunc mattis. Eros in cursus turpis massa tincidunt dui ut ornare lectus. Eu sem integer vitae justo.
+
+At auctor urna nunc id cursus. Eu facilisis sed odio morbi quis commodo. Molestie nunc non blandit massa enim nec dui nunc. Ultricies integer quis auctor elit sed vulputate mi. Maecenas sed enim ut sem viverra aliquet eget. Blandit cursus risus at ultrices mi tempus. Rhoncus aenean vel elit scelerisque mauris pellentesque pulvinar. Dolor sit amet consectetur adipiscing. At lectus urna duis convallis convallis tellus id. Hendrerit dolor magna eget est. Diam sit amet nisl suscipit adipiscing bibendum.
+
+Convallis posuere morbi leo urna molestie at elementum eu facilisis. Sed risus pretium quam vulputate dignissim suspendisse in est. Pretium aenean pharetra magna ac placerat vestibulum lectus mauris ultrices. Pharetra magna ac placerat vestibulum. At tellus at urna condimentum mattis. Aliquam vestibulum morbi blandit cursus risus at. A diam sollicitudin tempor id eu nisl nunc mi ipsum. Nam libero justo laoreet sit. Neque aliquam vestibulum morbi blandit cursus risus at ultrices. Euismod lacinia at quis risus sed vulputate odio ut enim. Dis parturient montes nascetur ridiculus mus. Massa sapien faucibus et molestie ac feugiat sed. Varius sit amet mattis vulputate enim nulla aliquet porttitor. Amet porttitor eget dolor morbi non arcu. Eu volutpat odio facilisis mauris sit amet massa vitae tortor. Donec enim diam vulputate ut pharetra sit amet aliquam. Ultrices tincidunt arcu non sodales neque sodales.
+
+Scelerisque purus semper eget duis at tellus at urna. Adipiscing commodo elit at imperdiet dui accumsan sit. Mattis enim ut tellus elementum. Auctor augue mauris augue neque. Urna cursus eget nunc scelerisque. Orci ac auctor augue mauris augue. Scelerisque purus semper eget duis. Tincidunt tortor aliquam nulla facilisi. Lectus urna duis convallis convallis tellus id. Enim nunc faucibus a pellentesque sit amet porttitor. Consequat id porta nibh venenatis cras sed felis. Ultricies integer quis auctor elit sed vulputate. Aliquam nulla facilisi cras fermentum. Condimentum vitae sapien pellentesque habitant morbi. Consectetur adipiscing elit pellentesque habitant morbi tristique senectus et netus. Aliquet eget sit amet tellus cras adipiscing. Tempor commodo ullamcorper a lacus. Vitae tortor condimentum lacinia quis vel eros donec ac odio. Massa tincidunt dui ut ornare lectus sit amet est. Sed ullamcorper morbi tincidunt ornare massa eget egestas purus.
+        </p>
+      <Link href='/'>Home</Link>
+    </Layout>
+
+  )
+}

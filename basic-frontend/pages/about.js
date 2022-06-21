@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function AboutPage() {
   return (
-    <Layout title='About Me'>
+    <Layout title='About App'>
         <h1>About</h1>
         <p>
           Something to mess around with
